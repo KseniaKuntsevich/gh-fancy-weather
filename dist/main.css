@@ -2,18 +2,15 @@
   animation: scale 0.8s linear infinite;
 }
 
-
 #map { 
   width: 100%; 
   height: 450px;
   border-radius: 3px;
 }
 
-
 .btn:hover {
   animation: timing 1.5s linear infinite;
 }
-
 
 @keyframes timing {
   25% {
@@ -40,11 +37,9 @@
 
 }
 
-
 .bg-dark-transp {
   background-color: rgba(52, 58, 64, .8);
 }
-
 
 @keyframes scale {
   25% {
